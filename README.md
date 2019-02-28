@@ -1,1 +1,1 @@
-# California-Practice
+# Machine Learning Practice - Chunil Kim
